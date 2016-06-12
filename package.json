@@ -12,6 +12,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node app/index.js",
+    "postinstall": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

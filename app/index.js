@@ -4,7 +4,7 @@ var http = require("http"),
 		fs = require("fs"),
 		bodyParser = require('body-parser'),
 		express = require("express"),
-		port = process.argv[2] || 8888;
+		port = process.env.PORT || 8888;
 
 app = express();
 
