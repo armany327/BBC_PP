@@ -1,0 +1,27 @@
+{
+  "name": "bbc_pp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "nodemon": "^1.9.2",
+    "webpack": "^1.13.1",
+    "webpack-livereload-plugin": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armany327/BBC_PP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armany327/BBC_PP/issues"
+  },
+  "homepage": "https://github.com/armany327/BBC_PP#readme"
+}
